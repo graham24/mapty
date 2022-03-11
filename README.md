@@ -1,1 +1,3 @@
 # mapty
+
+JS Map Project
