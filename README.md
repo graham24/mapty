@@ -1,4 +1,4 @@
-<h1>Workout Map</p>
+<h1>Workout Map</h1>
 <p>This is a simple JavaScript app that is used to track workouts on a map.</p>
 <p>It uses local storage to save everything, and Leaflet (https://leafletjs.com/) to load in the map.</p>
 
