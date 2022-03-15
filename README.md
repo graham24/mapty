@@ -1,8 +1,8 @@
 <h1>Workout Map</h1>
 <p>This is a simple JavaScript app that is used to track workouts on a map.</p>
-<p>It uses local storage to save everything, and Leaflet (https://leafletjs.com/) to load in the map.</p>
+<p>It uses local storage to save everything, and Leaflet (<a href="https://leafletjs.com/" target="_blank">https://leafletjs.com/</a>) to load in the map.</p>
 
-<p>See a live preview here: https://eager-booth-44d6a3.netlify.app/, continuously deplyed from GitHub to Netlify.</p>
+<p>See a live preview here: <a href="https://eager-booth-44d6a3.netlify.app/" target="_blank">https://eager-booth-44d6a3.netlify.app/</a>, continuously deplyed from GitHub to Netlify.</p>
 
 <p>Instructions:
 
